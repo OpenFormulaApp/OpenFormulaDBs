@@ -7,7 +7,7 @@ Semiperímetro,s= \frac{a+b+c}{2},\text{(a - b - c) Longitud de cada lado},
 Área del trapezoide,A = \frac{\overline{AB} \cdot \overline{CD} \cdot sin \theta}{2},(\overline{AB} -\ \overline{CD})\ \text{Segmento},https://kutt.it/o9eVeS
 Área del trapezoide,A = \frac{a\cdot b\cdot sin\alpha + b\cdot c\cdot sin \gamma}{2},\text{(a - b - c) Longitud de cada lado ; (}\alpha \gamma \text{) Ángulo},https://kutt.it/o9eVeS
 Área del rectángulo,A = a\cdot b,\text{(a - b) Longitud de cada lado},
-Área del rombo,A = \frac{\overline{AB} \cdot \overline{BD}}{2},(\overline{AB} -\ \overline{CD})\ \text{Segmento},https://kutt.it/bfYJ1T
+Área del rombo,A = \frac{\overline{AC} \cdot \overline{BD}}{2},(\overline{AC} -\ \overline{BD})\ \text{Segmento},https://kutt.it/phPSKA
 Área del cuadrado,A = a\cdot a = a^{2},\text{(a) Longitud de lado},
 Área del romboide,A = b\cdot h,\text{(b) Base ; (h) Altura},https://kutt.it/sxXHw8
 Área del trapecio,A = \frac{a+b}{2}\cdot h,\text{(a - b) Longitud de cada lado ; (h) Altura},https://kutt.it/iHB8rc
