@@ -20,4 +20,4 @@ Diagonal del ortoedro,d = \sqrt{a^{2} + b^{2} + c^{2}},\text{(a) Ancho ; (b) Alt
 Volumen del cubo,V = a\cdot a\cdot a = a^{3},\text{(a) Arista del cubo},
 Área total del cubo,A = 6a^{2},\text{(a) Arista del cubo},
 Área lateral del cubo,A = 4a^{2},,
-Diagonal del cubo,d = \sqrt{3a^{1}},\text{(a) Arista del cubo},
+Diagonal del cubo,d = \sqrt{3a^{2}},\text{(a) Arista del cubo},
