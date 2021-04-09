@@ -1,0 +1,23 @@
+Nombre,Formula,Unidades,Referencia Visual
+Área triángulo,A= \frac{bh}{2},\text{(b) Base ; (h) Altura},
+Área triángulo rectángulo,A= \frac{ab}{2},\text{(a)Lado Inferior ; (b)Lado Vertical},
+Área triángulo equilátero,A= \frac{\sqrt{3}a^{2}}{4},\text{(a) Lado del triángulo},
+Fórmula de Herón,A= \sqrt{s(s-a)(s-b)(s-c)},\text{(a - b - c) Longitud de cada lado},
+Semiperímetro,s= \frac{a+b+c}{2},\text{(a - b - c) Longitud de cada lado},
+Área del trapezoide,A = \frac{\overline{AB} \cdot \overline{CD} \cdot sin \theta}{2},(\overline{AB} -\ \overline{CD})\ \text{Segmento},https://kutt.it/o9eVeS
+Área del trapezoide,A = \frac{a\cdot b\cdot sin\alpha + b\cdot c\cdot sin \gamma}{2},\text{(a - b - c) Longitud de cada lado ; (}\alpha \gamma \text{) Ángulo},https://kutt.it/o9eVeS
+Área del rectángulo,A = a\cdot b,\text{(a - b) Longitud de cada lado},
+Área del rombo,A = \frac{\overline{AB} \cdot \overline{BD}}{2},(\overline{AB} -\ \overline{CD})\ \text{Segmento},https://kutt.it/bfYJ1T
+Área del cuadrado,A = a\cdot a = a^{2},\text{(a) Longitud de lado},
+Área del romboide,A = b\cdot h,\text{(b) Base ; (h) Altura},https://kutt.it/sxXHw8
+Área del trapecio,A = \frac{a+b}{2}\cdot h,\text{(a - b) Longitud de cada lado ; (h) Altura},https://kutt.it/iHB8rc
+Área del círculo,A = \pi r^{2},\text{(}\pi \text{)Constante pi ; (r) Radio},
+Área de la elipse,A = \pi ab,\text{(}\pi \text{)Constante pi ; (a - b) Longitud de cada eje},https://kutt.it/Erppuq
+Área total del paralelepípedo (ortoedro),A = 2\cdot (a\cdot b+a\cdot c+b\cdot c),\text{(a) Ancho ; (b) Altura ; (c) Longitud},https://kutt.it/8QENso
+Área lateral del paralelepípedo (ortoedro),A = 2\cdot a\cdot b+2\cdot b\cdot c,\text{(a) Ancho ; (b) Altura ; (c) Longitud},https://kutt.it/8QENso
+Volumen del ortoedro,V = a\cdot b\cdot c,\text{(a) Ancho ; (b) Altura ; (c) Longitud},https://kutt.it/8QENso
+Diagonal del ortoedro,d = \sqrt{a^{2} + b^{2} + c^{2}},\text{(a) Ancho ; (b) Altura ; (c) Longitud},https://kutt.it/8QENso
+Volumen del cubo,V = a\cdot a\cdot a = a^{3},\text{(a) Arista del cubo},
+Área total del cubo,A = 6a^{2},\text{(a) Arista del cubo},
+Área lateral del cubo,A = 4a^{2},,
+Diagonal del cubo,d = \sqrt{3a^{1}},\text{(a) Arista del cubo},
