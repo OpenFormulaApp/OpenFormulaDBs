@@ -4,20 +4,27 @@ Nombre,Formula,Unidades,Referencia Visual
 Área triángulo equilátero,A= \frac{\sqrt{3}a^{2}}{4},\text{(a) Lado del triángulo},
 Fórmula de Herón,A= \sqrt{s(s-a)(s-b)(s-c)},\text{(a - b - c) Longitud de cada lado},
 Semiperímetro,s= \frac{a+b+c}{2},\text{(a - b - c) Longitud de cada lado},
-Área del trapezoide,A = \frac{\overline{AB} \cdot \overline{CD} \cdot sin \theta}{2},(\overline{AB} -\ \overline{CD})\ \text{Segmento},https://kutt.it/o9eVeS
-Área del trapezoide,A = \frac{a\cdot b\cdot sin\alpha + b\cdot c\cdot sin \gamma}{2},\text{(a - b - c) Longitud de cada lado ; (}\alpha \gamma \text{) Ángulo},https://kutt.it/o9eVeS
+Área del trapezoide,A = \frac{\overline{AB} \cdot \overline{CD} \cdot sin \theta}{2},(\overline{AB} -\ \overline{CD})\ \text{Segmento},https://w.wiki/3CpE
+Área del trapezoide,A = \frac{a\cdot b\cdot sin\alpha + b\cdot c\cdot sin \gamma}{2},\text{(a - b - c) Longitud de cada lado ; (}\alpha \gamma \text{) Ángulo},https://w.wiki/3CpE
 Área del rectángulo,A = a\cdot b,\text{(a - b) Longitud de cada lado},
-Área del rombo,A = \frac{\overline{AC} \cdot \overline{BD}}{2},(\overline{AC} -\ \overline{BD})\ \text{Segmento},https://kutt.it/phPSKA
+Área del rombo,A = \frac{\overline{AC} \cdot \overline{BD}}{2},(\overline{AC} -\ \overline{BD})\ \text{Segmento},https://w.wiki/3CpF
 Área del cuadrado,A = a\cdot a = a^{2},\text{(a) Longitud de lado},
-Área del romboide,A = b\cdot h,\text{(b) Base ; (h) Altura},https://kutt.it/sxXHw8
-Área del trapecio,A = \frac{a+b}{2}\cdot h,\text{(a - b) Longitud de cada lado ; (h) Altura},https://kutt.it/iHB8rc
+Área del romboide,A = b\cdot h,\text{(b) Base ; (h) Altura},https://w.wiki/3CpG
+Área del trapecio,A = \frac{a+b}{2}\cdot h,\text{(a - b) Longitud de cada lado ; (h) Altura},https://w.wiki/3CpH
 Área del círculo,A = \pi r^{2},\text{(}\pi \text{)Constante pi ; (r) Radio},
-Área de la elipse,A = \pi ab,\text{(}\pi \text{)Constante pi ; (a - b) Longitud de cada eje},https://kutt.it/Erppuq
-Área total del paralelepípedo (ortoedro),A = 2\cdot (a\cdot b+a\cdot c+b\cdot c),\text{(a) Ancho ; (b) Altura ; (c) Longitud},https://kutt.it/8QENso
-Área lateral del paralelepípedo (ortoedro),A = 2\cdot a\cdot b+2\cdot b\cdot c,\text{(a) Ancho ; (b) Altura ; (c) Longitud},https://kutt.it/8QENso
-Volumen del ortoedro,V = a\cdot b\cdot c,\text{(a) Ancho ; (b) Altura ; (c) Longitud},https://kutt.it/8QENso
-Diagonal del ortoedro,d = \sqrt{a^{2} + b^{2} + c^{2}},\text{(a) Ancho ; (b) Altura ; (c) Longitud},https://kutt.it/8QENso
+Área de la elipse,A = \pi ab,\text{(}\pi \text{)Constante pi ; (a - b) Longitud de cada eje},https://w.wiki/3CpL
+Área total del paralelepípedo (ortoedro),A = 2\cdot (a\cdot b+a\cdot c+b\cdot c),\text{(a) Ancho ; (b) Altura ; (c) Longitud},https://w.wiki/3CpM
+Área lateral del paralelepípedo (ortoedro),A = 2\cdot a\cdot b+2\cdot b\cdot c,\text{(a) Ancho ; (b) Altura ; (c) Longitud},https://w.wiki/3CpM
+Volumen del ortoedro,V = a\cdot b\cdot c,\text{(a) Ancho ; (b) Altura ; (c) Longitud},https://w.wiki/3CpM
+Diagonal del ortoedro,d = \sqrt{a^{2} + b^{2} + c^{2}},\text{(a) Ancho ; (b) Altura ; (c) Longitud},https://w.wiki/3CpM
 Volumen del cubo,V = a\cdot a\cdot a = a^{3},\text{(a) Arista del cubo},
 Área total del cubo,A = 6a^{2},\text{(a) Arista del cubo},
 Área lateral del cubo,A = 4a^{2},,
 Diagonal del cubo,d = \sqrt{3a^{2}},\text{(a) Arista del cubo},
+Área del cilindro,A = 2\pi r(r+h),\text{(r) Radio ; (h) Altura},https://w.wiki/3Coo
+Volumen del cilindro,V = \pi r^2 h,\text{(r) Radio ; (h) Altura},https://w.wiki/3Coo
+Área de un cilindro oblicuo,A = 2\pi r(r+\frac{h}{sin(\alpha )}),\text{(r) Radio ; (h) Altura ; (}\alpha \text{) Ángulo},https://w.wiki/3Coo
+Área de una esfera,A= 4\pi r^2,\text{(r) Radio},
+"Volumen de una esfera ",V = \frac{4\pi r^3 }{3},\text{(r) Radio},
+Área de un elipsoide,A \approx 4\pi (\frac{a^P b^P + a^P c^P + b^P c^P }{3})^{\frac{1}{p}} : p\approx 1.6075,\text{(a - b -c) Longitudes de los semiejes},https://w.wiki/3Cpj
+Volumen de un elipsoide,V = \frac{4\pi}{3} abc,\text{(a - b - c) Longitudes de los semiejes},https://w.wiki/3Cpj
