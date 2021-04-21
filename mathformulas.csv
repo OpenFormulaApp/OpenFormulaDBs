@@ -25,6 +25,6 @@ Diagonal del cubo,d = \sqrt{3a^{2}},\text{(a) Arista del cubo},
 Volumen del cilindro,V = \pi r^2 h,\text{(r) Radio ; (h) Altura},https://w.wiki/3Coo
 Área de un cilindro oblicuo,A = 2\pi r(r+\frac{h}{sin(\alpha )}),\text{(r) Radio ; (h) Altura ; (}\alpha \text{) Ángulo},https://w.wiki/3Coo
 Área de una esfera,A= 4\pi r^2,\text{(r) Radio},
-"Volumen de una esfera ",V = \frac{4\pi r^3 }{3},\text{(r) Radio},
+Volumen de una esfera,V = \frac{4\pi r^3 }{3},\text{(r) Radio},
 Área de un elipsoide,A \approx 4\pi (\frac{a^P b^P + a^P c^P + b^P c^P }{3})^{\frac{1}{p}} : p\approx 1.6075,\text{(a - b -c) Longitudes de los semiejes},https://w.wiki/3Cpj
 Volumen de un elipsoide,V = \frac{4\pi}{3} abc,\text{(a - b - c) Longitudes de los semiejes},https://w.wiki/3Cpj
