@@ -1,4 +1,4 @@
-[
+var values = [
     {
     "name": "Área del tríangulo",
     "formula": "A= \\frac{bh}{2}",
@@ -144,4 +144,4 @@
     "formula": "V = \\frac{4\\pi}{3} abc",
     "tags": ""
     }
-]
+];
