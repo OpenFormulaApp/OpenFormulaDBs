@@ -2,7 +2,7 @@
     {
         "nombre": "Área del tríangulo",
         "formula": "A= \\frac{bh}{2}",
-        "informacion": "Esta fórmula calcula algo :)"
+        "informacion": "Esta fórmula calcula algo :). Puede que también pueda mostrar $$\\KaTeX$$"
     },
     {
         "nombre": "Área triángulo rectángulo",
