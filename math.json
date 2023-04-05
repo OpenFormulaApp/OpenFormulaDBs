@@ -1,118 +1,147 @@
 [
     {
         "nombre": "Área del tríangulo",
-        "formula": "A= \\frac{bh}{2}"
+        "formula": "A= \\frac{bh}{2}",
+        "informacion": "Esta fórmula calcula algo :)"
     },
     {
         "nombre": "Área triángulo rectángulo",
-        "formula": "A= \\frac{ab}{2}"
+        "formula": "A= \\frac{ab}{2}",
+        "informacion": "Esta fórmula calcula algo :)"
     },
     {
         "nombre": "Área triángulo equilátero",
-        "formula": "A= \\frac{\\sqrt{3}a^{2}}{4}"
+        "formula": "A= \\frac{\\sqrt{3}a^{2}}{4}",
+        "informacion": "Esta fórmula calcula algo :)"
     },
     {
         "nombre": "Fórmula de Herón",
-        "formula": "A= \\sqrt{s(s-a)(s-b)(s-c)}"
+        "formula": "A= \\sqrt{s(s-a)(s-b)(s-c)}",
+        "informacion": "Esta fórmula calcula algo :)"
     },
     {
         "nombre": "Semiperímetro",
-        "formula": "s= \\frac{a+b+c}{2}"
+        "formula": "s= \\frac{a+b+c}{2}",
+        "informacion": "Esta fórmula calcula algo :)"
     },
     {
         "nombre": "Área del trapezoide",
-        "formula": "A = \\frac{\\overline{AB} \\cdot \\overline{CD} \\cdot sin \\theta}{2}"
+        "formula": "A = \\frac{\\overline{AB} \\cdot \\overline{CD} \\cdot sin \\theta}{2}",
+        "informacion": "Esta fórmula calcula algo :)"
     },
     {
         "nombre": "Área del trapezoide",
-        "formula": "A = \\frac{a\\cdot b\\cdot sin\\alpha + b\\cdot c\\cdot sin \\gamma}{2}"
+        "formula": "A = \\frac{a\\cdot b\\cdot sin\\alpha + b\\cdot c\\cdot sin \\gamma}{2}",
+        "informacion": "Esta fórmula calcula algo :)"
     },
     {
         "nombre": "Área del rectángulo",
-        "formula": "A = a\\cdot b"
+        "formula": "A = a\\cdot b",
+        "informacion": "Esta fórmula calcula algo :)"
     },
     {
         "nombre": "Área del rombo",
-        "formula": "A = \\frac{\\overline{AC} \\cdot \\overline{BD}}{2}"
+        "formula": "A = \\frac{\\overline{AC} \\cdot \\overline{BD}}{2}",
+        "informacion": "Esta fórmula calcula algo :)"
     },
     {
         "nombre": "Área del cuadrado",
-        "formula": "A = a\\cdot a = a^{2}"
+        "formula": "A = a\\cdot a = a^{2}",
+        "informacion": "Esta fórmula calcula algo :)"
     },
     {
         "nombre": "Área del romboide",
-        "formula": "A = b\\cdot h"
+        "formula": "A = b\\cdot h",
+        "informacion": "Esta fórmula calcula algo :)"
     },
     {
         "nombre": "Área del trapecio",
-        "formula": "A = \\frac{a+b}{2}\\cdot h"
+        "formula": "A = \\frac{a+b}{2}\\cdot h",
+        "informacion": "Esta fórmula calcula algo :)"
     },
     {
         "nombre": "Área del círculo",
-        "formula": "A = \\pi r^{2}"
+        "formula": "A = \\pi r^{2}",
+        "informacion": "Esta fórmula calcula algo :)"
     },
     {
         "nombre": "Área de la elipse",
-        "formula": "A = \\pi ab"
+        "formula": "A = \\pi ab",
+        "informacion": "Esta fórmula calcula algo :)"
     },
     {
         "nombre": "Área total del paralelepípedo (ortoedro)",
-        "formula": "A = 2\\cdot (a\\cdot b+a\\cdot c+b\\cdot c)"
+        "formula": "A = 2\\cdot (a\\cdot b+a\\cdot c+b\\cdot c)",
+        "informacion": "Esta fórmula calcula algo :)"
     },
     {
         "nombre": "Área lateral del paralelepípedo (ortoedro)",
-        "formula": "A = 2\\cdot a\\cdot b+2\\cdot b\\cdot c"
+        "formula": "A = 2\\cdot a\\cdot b+2\\cdot b\\cdot c",
+        "informacion": "Esta fórmula calcula algo :)"
     },
     {
         "nombre": "Volumen del ortoedro",
-        "formula": "V = a\\cdot b\\cdot c"
+        "formula": "V = a\\cdot b\\cdot c",
+        "informacion": "Esta fórmula calcula algo :)"
     },
     {
         "nombre": "Diagonal del ortoedro",
-        "formula": "d = \\sqrt{a^{2} + b^{2} + c^{2}}"
+        "formula": "d = \\sqrt{a^{2} + b^{2} + c^{2}}",
+        "informacion": "Esta fórmula calcula algo :)"
     },
     {
         "nombre": "Volumen del cubo",
-        "formula": "V = a\\cdot a\\cdot a = a^{3}"
+        "formula": "V = a\\cdot a\\cdot a = a^{3}",
+        "informacion": "Esta fórmula calcula algo :)"
     },
     {
         "nombre": "Área total del cubo",
-        "formula": "A = 6a^{2}"
+        "formula": "A = 6a^{2}",
+        "informacion": "Esta fórmula calcula algo :)"
     },
     {
         "nombre": "Área lateral del cubo",
-        "formula": "A = 4a^{2}"
+        "formula": "A = 4a^{2}",
+        "informacion": "Esta fórmula calcula algo :)"
     },
     {
         "nombre": "Diagonal del cubo",
-        "formula": "d = \\sqrt{3a^{2}}"
+        "formula": "d = \\sqrt{3a^{2}}",
+        "informacion": "Esta fórmula calcula algo :)"
     },
     {
         "nombre": "Área del cilindro",
-        "formula": "A = 2\\pi r(r+h)"
+        "formula": "A = 2\\pi r(r+h)",
+        "informacion": "Esta fórmula calcula algo :)"
     },
     {
         "nombre": "Volumen del cilindro",
-        "formula": "V = \\pi r^2 h"
+        "formula": "V = \\pi r^2 h",
+        "informacion": "Esta fórmula calcula algo :)"
     },
     {
         "nombre": "Área de un cilindro oblicuo",
-        "formula": "A = 2\\pi r(r+\\frac{h}{sin(\\alpha )})"
+        "formula": "A = 2\\pi r(r+\\frac{h}{sin(\\alpha )})",
+        "informacion": "Esta fórmula calcula algo :)"
     },
     {
         "nombre": "Área de una esfera",
-        "formula": "A= 4\\pi r^2"
+        "formula": "A= 4\\pi r^2",
+        "informacion": "Esta fórmula calcula algo :)"
     },
     {
         "nombre": "Volumen de una esfera",
-        "formula": "V = \\frac{4\\pi r^3 }{3}"
+        "formula": "V = \\frac{4\\pi r^3 }{3}",
+        "informacion": "Esta fórmula calcula algo :)"
     },
     {
         "nombre": "Área de un elipsoide",
-        "formula": "A \\approx 4\\pi (\\frac{a^P b^P + a^P c^P + b^P c^P }{3})^{\\frac{1}{p}} : p\\approx 1.6075"
+        "formula": "A \\approx 4\\pi (\\frac{a^P b^P + a^P c^P + b^P c^P }{3})^{\\frac{1}{p}} : p\\approx 1.6075",
+        "informacion": "Esta fórmula calcula algo :)"
     },
     {
         "nombre": "Volumen de un elipsoide",
-        "formula": "V = \\frac{4\\pi}{3} abc"
+        "formula": "V = \\frac{4\\pi}{3} abc",
+        "informacion": "Esta fórmula calcula algo :)"
     }
 ]
