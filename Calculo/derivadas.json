@@ -92,14 +92,6 @@
     "formula": "\\frac{d}{dx}\\arctan x=\\frac{1}{1+x^2}"
   },
   {
-    "nombre": "Arcocosecante",
-    "formula": "\\frac{d}{dx}\\arccsc x=\\frac{-1}{x\\sqrt{x^2-1}}"
-  },
-  {
-    "nombre": "Arcosecante",
-    "formula": "\\frac{d}{dx}\\arcsec x=\\frac{1}{x\\sqrt{x^2-1}}"
-  },
-  {
     "nombre": "Arcocotangente",
     "formula": "\\frac{d}{dx}\\arcctg x=\\frac{-1}{1+x^2}"
   },
@@ -114,17 +106,5 @@
   {
     "nombre": "Tangente hiperbólico",
     "formula": "\\frac{d}{dx}\\tanh x="
-  },
-  {
-    "nombre": "Cosecante hiperbólico",
-    "formula": "\\frac{d}{dx}\\csch x=-\\coth x\\csch x"
-  },
-  {
-    "nombre": "Secante hiperbólico",
-    "formula": "\\frac{d}{dx}\\sech x = -\\tanh x\\sech x"
-  },
-  {
-    "nombre": "Cotangente hiperbólico",
-    "formula": "\\frac{d}{dx}\\coth x=-\\csch^2 x"
   }
 ]
