@@ -1,0 +1,130 @@
+[
+  {
+    "nombre": "Fórmula del producto",
+    "formula": "(f\\cdot g)'=f\\cdot g' + f'' \\cdot g"
+  },
+  {
+    "nombre": "Fórmula del cociente",
+    "formula": "\\left(\\frac{f}{g}\\right)'=\\frac{f'\\cdot g-f\\cdot g'}{g^2}"
+  },
+  {
+    "nombre": "Fórmula de la inversa",
+    "formula": "\\left(\\frac{1}{f}\\right)'=\\frac{-f'}{f^2}"
+  },
+  {
+    "nombre": "Constante",
+    "formula": "\\frac{d}{dx}k=0"
+  },
+  {
+    "nombre": "Variable con coeficiente",
+    "formula": "\\frac{d}{dx}(cx)=c"
+  },
+  {
+    "nombre": "Variable con coeficiente y potencia",
+    "formula": "\\frac{d}{dx}cx^n=cnx^{n-1}"
+  },
+  {
+    "nombre": "Valor absoluto",
+    "formula": "\\frac{d}{dx}|x|=\\frac{x}{|x|}"
+  },
+  {
+    "nombre": "Inversa de variable con coeficiente",
+    "formula": "\\frac{d}{dx}\\left(\\frac{1}{x^c}\\right)=\\frac{d}{dx}\\left(x^{-c}\\right)"
+  },
+  {
+    "nombre": "Raíz enésima",
+    "formula": "\\frac{d}{dx}\\sqrt[n]{x}=\\frac{1}{n\\sqrt[n]{x^{n-1}}}"
+  },
+  {
+    "nombre": "Función con potencia",
+    "formula": "\\frac{d}{dx}f(x)^n=nf(x)^{n-1}\\cdot\\frac{d}{dx}f(x)"
+  },
+  {
+    "nombre": "Constante con potencia variable",
+    "formula": "\\frac{d}{dx}c^x=c^x\\ln c"
+  },
+  {
+    "nombre": "Exponencial de variable",
+    "formula": "\\frac{d}{dx}e^x=e^x\\frac{d}{dx}x"
+  },
+  {
+    "nombre": "Logaritmo natural de variable",
+    "formula": "\\frac{d}{dx}\\ln x=\\frac{1}{x}"
+  },
+  {
+    "nombre": "Variable con potencia variable",
+    "formula": "\\frac{d}{dx}x^x=x^x(1+\\ln x)"
+  },
+  {
+    "nombre": "Seno",
+    "formula": "\\frac{d}{dx}\\sin x=\\cos x"
+  },
+  {
+    "nombre": "Coseno",
+    "formula": "\\frac{d}{dx}\\cos x=-\\sin x"
+  },
+  {
+    "nombre": "Tangente",
+    "formula": "\\frac{d}{dx}\\tan x=\\sec^2x=\\frac{1}{\\cos^2x}=1+\\tan^2x"
+  },
+  {
+    "nombre": "Cosecante",
+    "formula": "\\frac{d}{dx}\\csc x = -\\csc x\\cot x"
+  },
+  {
+    "nombre": "Secante",
+    "formula": "\\frac{d}{dx}\\sec x = \\sec x \\tan x"
+  },
+  {
+    "nombre": "Cotangente",
+    "formula": "\\frac{d}{dx}\\cot x=-\\csc^2x=-\\frac{1}{\\sin^2x}"
+  },
+  {
+    "nombre": "Arcoseno",
+    "formula": "\\frac{d}{dx}\\arcsin x=\\frac{1}{\\sqrt{1-x^2}}"
+  },
+  {
+    "nombre": "Arcocoseno",
+    "formula": "\\frac{d}{dx}\\arccos x=\\frac{-1}{\\sqrt{1-x^2}}"
+  },
+  {
+    "nombre": "Arcotangente",
+    "formula": "\\frac{d}{dx}\\arctan x=\\frac{1}{1+x^2}"
+  },
+  {
+    "nombre": "Arcocosecante",
+    "formula": "\\frac{d}{dx}\\arccsc x=\\frac{-1}{x\\sqrt{x^2-1}}"
+  },
+  {
+    "nombre": "Arcosecante",
+    "formula": "\\frac{d}{dx}\\arcsec x=\\frac{1}{x\\sqrt{x^2-1}}"
+  },
+  {
+    "nombre": "Arcocotangente",
+    "formula": "\\frac{d}{dx}\\arcctg x=\\frac{-1}{1+x^2}"
+  },
+  {
+    "nombre": "Seno hiperbólico",
+    "formula": "\\frac{d}{dx}\\sinh x=\\cosh x=\\frac{e^x+e^{-x}}{2}"
+  },
+  {
+    "nombre": "Coseno hiperbólico",
+    "formula": "\\frac{d}{dx}\\cosh x=\\sinh x =\\frac{e^x-e^{-x}}{2}"
+  },
+  {
+    "nombre": "Tangente hiperbólico",
+    "formula": "\\frac{d}{dx}\\tanh x="
+  },
+  {
+    "nombre": "Cosecante hiperbólico",
+    "formula": "\\frac{d}{dx}\\csch x=-\\coth x\\csch x"
+  },
+  {
+    "nombre": "Secante hiperbólico",
+    "formula": "\\frac{d}{dx}\\sech x = -\\tanh x\\sech x"
+  },
+  {
+    "nombre": "Cotangente hiperbólico",
+    "formula": "\\frac{d}{dx}\\coth x=-\\csch^2 x"
+  }
+]
